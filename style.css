@@ -1,0 +1,125 @@
+body {
+  margin: 0%;
+  font-family: "Poppins", sans-serif;
+}
+.div-clear{
+  clear: both;
+}
+h1 {
+  font-size: 40px;
+}
+p {
+  color: black;
+}
+.single-experience h2,p{
+ padding-right: 3%;
+ text-align: center;
+}
+.orange-highlight {
+  color: orangered;
+}
+.blue-highlight{
+  color:#21304E;
+}
+.half-width {
+  width: 40%;
+  float: left;
+  margin-left: 7%;
+  padding-left: 3%;
+}
+.half-width img {
+  width: 60%;
+}
+.top-banner {
+  background-image: url(./images/Group\ 33080.png)
+  background-repeat: no-repeat;
+  background-position: right;
+  height: 500px;
+}
+section {
+  height: 1000px;
+  padding-bottom: 150px;
+}
+.link-button {
+  text-decoration: none;
+  background-image: linear-gradient(45deg, lightsalmon, tomato);
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 700;
+}
+.dream-area {
+  background-image: url("./images/dream-bg.png");
+  background-repeat: no-repeat;
+  background-position: right;
+  height: 500px;
+}
+.single-experience {
+  box-shadow: 10px 10px 40px gray;
+  border-radius: 5px;
+  width: 20%;
+  background-color: white;
+  margin-left: 8%;
+  padding-bottom:5%;
+}
+.single-experience img{
+  width: 85%;
+  height: 75%;
+  padding-top: 10%;
+}
+.experience-area {
+  background-repeat: no-repeat;
+  background-position: left;
+  height: 600px;
+  background-color: #F2EBEB;
+  padding-top: 5%;
+}
+.experience-area h1{
+  text-align: center;
+} 
+.himel{
+  background-image: url("./images/Group_33094_1.png");
+  margin: 5% 20% 5% 22%;
+  position: left;
+  padding: 4% 10% 5% 2%;
+  background-size: contain;
+  background-repeat: no-repeat;
+ 
+}
+.h{
+ height: 300px;
+}
+.himel h1{
+  color: white;
+}
+.himel2 h3{
+background-color:tomato;
+width: 9%;
+margin-left: 95%;
+margin-top: -18%;
+padding: 10px 35px;
+border-radius: 5px;
+color: white;
+font-weight: 150;
+font-size: 10px;
+}
+.jojo{
+   margin-top:-4%;
+   margin-bottom:3%;
+    
+ }
+  
+ .jojo-img img{
+    height: 25px;
+    width: 25px;
+    padding-left: 10px;
+    
+ }
+ .jojo p,h2{
+     text-align: center;
+     
+ }
+ .jojo-img{
+     margin-left:46%;
+    
+ }
